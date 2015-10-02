@@ -1,0 +1,1 @@
+/var/www/wordpress/wp-content/plugins/civicrm-wp-profile-sync/civicrm_custom_templates/CRM/Contact/Form/Task/CreateWordPressUsers.tpl
