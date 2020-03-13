@@ -88,13 +88,14 @@ class CRM_Member_Page_UserDashboard extends CRM_Contact_Page_View_UserDashBoard 
 				$membership[$dao->id]['renewPageId'] = 2;
 			break;
 
-			case "10": 
+			case "10":
+			case "11":
 				$membership[$dao->id]['renewPageId'] = 19;
 			break;
 
-			case "11": 
+			/*case "11":
 				$membership[$dao->id]['renewPageId'] = 23;
-			break;
+			break;*/
 		
 			case "5":
 			case "9": 
